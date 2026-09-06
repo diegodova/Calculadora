@@ -28,7 +28,6 @@
 #define ID_MUL     212
 #define ID_DIV     213
 #define ID_EQUAL   214
-
 #define ID_DOT     215
 #define ID_CLEAR   216
 #define ID_BACK    217
