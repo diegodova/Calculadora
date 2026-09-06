@@ -1,5 +1,8 @@
-﻿#include "Calculadora.h"
+﻿// Calculadora con Win32
+// Practicas de C++ 2026
+// Diego Fernando Dominguez Vazquez
 
+#include "Calculadora.h"
 #include <windows.h>
 #include <string>
 #include <sstream>
@@ -10,7 +13,6 @@
 // ============================================================
 
 #define ID_DISPLAY 100
-
 #define ID_0       200
 #define ID_1       201
 #define ID_2       202
@@ -21,7 +23,6 @@
 #define ID_7       207
 #define ID_8       208
 #define ID_9       209
-
 #define ID_ADD     210
 #define ID_SUB     211
 #define ID_MUL     212
